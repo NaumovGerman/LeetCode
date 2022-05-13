@@ -1,4 +1,3 @@
-'''py
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         ls = list()
@@ -8,4 +7,3 @@ class Solution:
                     ls.append(i)
                     ls.append(j)
                     return ls
-'''
